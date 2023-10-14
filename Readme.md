@@ -1,6 +1,5 @@
+![wordmark-white](https://github.com/outlivo/tumblr/assets/117786792/328d25c4-bdf0-4bbf-9b88-4f9075e8f12b)
 
-[](https://github.com/outlivo/tumblr/assets/117786792/21462868-d6b8-4bba-8c74-0aa45da8f84f)
-
-#Tumblr
+# Tumblr
 
 Ideas being created...
