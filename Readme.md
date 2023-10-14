@@ -1,3 +1,3 @@
-# Kits 4 Tumblr
+# Tumblr
 
 Ideas being created...
