@@ -1,5 +1,11 @@
-![wordmark-white](https://github.com/outlivo/tumblr/assets/117786792/328d25c4-bdf0-4bbf-9b88-4f9075e8f12b)
-
 # Tumblr
 
 Ideas being created...
+<div align="center">
+  
+  <a href="https://github.com/outlivo/tumblr">![example1](https://img.shields.io/github/stars/arc53/docsgpt?style=social)</a>
+  <a href="https://github.com/outlivo/tumblr">![example2](https://img.shields.io/github/forks/arc53/docsgpt?style=social)</a>
+  <a href="https://github.com/outlivo/tumblr/blob/main/LICENSE">![example3](https://img.shields.io/github/license/arc53/docsgpt)</a>
+  <a href="https://discord.gg/n5BX8dh8rU">![example3](https://img.shields.io/discord/1070046503302877216)</a>
+ 
+</div>
