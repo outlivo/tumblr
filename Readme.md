@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  <a href="https://github.com/outlivo/tumblr">![0](https://img.shields.io/github/watch/outlivo/tumblr?style=social)</a>
+  <a href="https://github.com/outlivo/tumblr">![0](https://img.shields.io/github/stars/outlivo/tumblr?style=social)</a>
   <a href="https://github.com/outlivo/tumblr">![1](https://img.shields.io/github/forks/outlivo/tumblr?style=social)</a>
   <a href="https://github.com/outlivo/tumblr/blob/main/LICENSE">![2](https://img.shields.io/github/license/outlivo/tumblr)</a>
  
