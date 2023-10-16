@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <p>Ideas being created...</p>
+  <p>The new repository for <code>tumblr.com</code> lovers!</p>
 </div>
 
 <div align="center">
